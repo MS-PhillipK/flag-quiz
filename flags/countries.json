@@ -1,0 +1,1493 @@
+{
+  "AD": {
+    "country": "Andorra",
+    "capitalCity": "Andorra la Vella",
+    "continent": "Europe",
+    "language": "Catalan",
+    "hello": "Hola"
+  },
+  "AE": {
+    "country": "United Arab Emirates",
+    "capitalCity": "Abu Dhabi",
+    "continent": "Asia",
+    "language": "Arabic",
+    "hello": "Marhaba"
+  },
+  "AF": {
+    "country": "Afghanistan",
+    "capitalCity": "Kabul",
+    "continent": "Asia",
+    "language": "Pashto, Dari",
+    "hello": "Salaam"
+  },
+  "AG": {
+    "country": "Antigua and Barbuda",
+    "capitalCity": "Saint John's",
+    "continent": "North America",
+    "language": "English",
+    "hello": "Hello"
+  },
+  "AI": {
+    "country": "Anguilla",
+    "capitalCity": "The Valley",
+    "continent": "North America",
+    "language": "English",
+    "hello": "Hello"
+  },
+  "AL": {
+    "country": "Albania",
+    "capitalCity": "Tirana",
+    "continent": "Europe",
+    "language": "Albanian",
+    "hello": "Përshëndetje"
+  },
+  "AM": {
+    "country": "Armenia",
+    "capitalCity": "Yerevan",
+    "continent": "Asia",
+    "language": "Armenian",
+    "hello": "Barev"
+  },
+  "AO": {
+    "country": "Angola",
+    "capitalCity": "Luanda",
+    "continent": "Africa",
+    "language": "Portuguese",
+    "hello": "Olá"
+  },
+  "AQ": {
+    "country": "Antarctica",
+    "capitalCity": "N/A",
+    "continent": "Antarctica",
+    "language": "N/A",
+    "hello": "N/A"
+  },
+  "AR": {
+    "country": "Argentina",
+    "capitalCity": "Buenos Aires",
+    "continent": "South America",
+    "language": "Spanish",
+    "hello": "Hola"
+  },
+  "AS": {
+    "country": "American Samoa",
+    "capitalCity": "Pago Pago",
+    "continent": "Oceania",
+    "language": "Samoan, English",
+    "hello": "Talofa / Hello"
+  },
+  "AT": {
+    "country": "Austria",
+    "capitalCity": "Vienna",
+    "continent": "Europe",
+    "language": "German",
+    "hello": "Hallo"
+  },
+  "AU": {
+    "country": "Australia",
+    "capitalCity": "Canberra",
+    "continent": "Oceania",
+    "language": "English",
+    "hello": "Hello"
+  },
+  "AW": {
+    "country": "Aruba",
+    "capitalCity": "Oranjestad",
+    "continent": "North America",
+    "language": "Papiamento, Dutch",
+    "hello": "Bon dia / Hallo"
+  },
+  "AX": {
+    "country": "Åland Islands",
+    "capitalCity": "Mariehamn",
+    "continent": "Europe",
+    "language": "Swedish",
+    "hello": "Hej"
+  },
+  "AZ": {
+    "country": "Azerbaijan",
+    "capitalCity": "Baku",
+    "continent": "Asia",
+    "language": "Azerbaijani",
+    "hello": "Salam"
+  },
+  "BA": {
+    "country": "Bosnia and Herzegovina",
+    "capitalCity": "Sarajevo",
+    "continent": "Europe",
+    "language": "Bosnian, Serbian, Croatian",
+    "hello": "Zdravo"
+  },
+  "BB": {
+    "country": "Barbados",
+    "capitalCity": "Bridgetown",
+    "continent": "North America",
+    "language": "English",
+    "hello": "Hello"
+  },
+  "BD": {
+    "country": "Bangladesh",
+    "capitalCity": "Dhaka",
+    "continent": "Asia",
+    "language": "Bengali",
+    "hello": "Nomoshkar"
+  },
+  "BE": {
+    "country": "Belgium",
+    "capitalCity": "Brussels",
+    "continent": "Europe",
+    "language": "Dutch, French, German",
+    "hello": "Hallo / Bonjour / Hallo"
+  },
+  "BF": {
+    "country": "Burkina Faso",
+    "capitalCity": "Ouagadougou",
+    "continent": "Africa",
+    "language": "French",
+    "hello": "Bonjour"
+  },
+  "BG": {
+    "country": "Bulgaria",
+    "capitalCity": "Sofia",
+    "continent": "Europe",
+    "language": "Bulgarian",
+    "hello": "Zdraveyte"
+  },
+  "BH": {
+    "country": "Bahrain",
+    "capitalCity": "Manama",
+    "continent": "Asia",
+    "language": "Arabic",
+    "hello": "Marhaba"
+  },
+  "BI": {
+    "country": "Burundi",
+    "capitalCity": "Gitega",
+    "continent": "Africa",
+    "language": "Kirundi, French",
+    "hello": "Amahoro / Bonjour"
+  },
+  "BJ": {
+    "country": "Benin",
+    "capitalCity": "Porto-Novo",
+    "continent": "Africa",
+    "language": "French",
+    "hello": "Bonjour"
+  },
+  "BL": {
+    "country": "Saint Barthélemy",
+    "capitalCity": "Gustavia",
+    "continent": "North America",
+    "language": "French",
+    "hello": "Bonjour"
+  },
+  "BM": {
+    "country": "Bermuda",
+    "capitalCity": "Hamilton",
+    "continent": "North America",
+    "language": "English",
+    "hello": "Hello"
+  },
+  "BN": {
+    "country": "Brunei Darussalam",
+    "capitalCity": "Bandar Seri Begawan",
+    "continent": "Asia",
+    "language": "Malay",
+    "hello": "Selamat"
+  },
+  "BO": {
+    "country": "Bolivia, Plurinational State of",
+    "capitalCity": "Sucre",
+    "continent": "South America",
+    "language": "Spanish, Quechua, Aymara",
+    "hello": "Hola / Namasté / Kamisaraki"
+  },
+  "BQ": {
+    "country": "Caribbean Netherlands",
+    "capitalCity": "N/A",
+    "continent": "North America",
+    "language": "Dutch",
+    "hello": "Hallo"
+  },
+  "BR": {
+    "country": "Brazil",
+    "capitalCity": "Brasília",
+    "continent": "South America",
+    "language": "Portuguese",
+    "hello": "Olá"
+  },
+  "BS": {
+    "country": "Bahamas",
+    "capitalCity": "Nassau",
+    "continent": "North America",
+    "language": "English",
+    "hello": "Hello"
+  },
+  "BT": {
+    "country": "Bhutan",
+    "capitalCity": "Thimphu",
+    "continent": "Asia",
+    "language": "Dzongkha",
+    "hello": "Kuzu zangpo"
+  },
+  "BV": {
+    "country": "Bouvet Island",
+    "capitalCity": "N/A",
+    "continent": "Antarctica",
+    "language": "Norwegian",
+    "hello": "Hei"
+  },
+  "BW": {
+    "country": "Botswana",
+    "capitalCity": "Gaborone",
+    "continent": "Africa",
+    "language": "English, Tswana",
+    "hello": "Hello / Dumela"
+  },
+  "BY": {
+    "country": "Belarus",
+    "capitalCity": "Minsk",
+    "continent": "Europe",
+    "language": "Belarusian, Russian",
+    "hello": "Pryvitannie / Здравствуйте"
+  },
+  "BZ": {
+    "country": "Belize",
+    "capitalCity": "Belmopan",
+    "continent": "North America",
+    "language": "English",
+    "hello": "Hello"
+  },
+  "CA": {
+    "country": "Canada",
+    "capitalCity": "Ottawa",
+    "continent": "North America",
+    "language": "English, French",
+    "hello": "Hello / Bonjour"
+  },
+  "CC": {
+    "country": "Cocos (Keeling) Islands",
+    "capitalCity": "West Island",
+    "continent": "Oceania",
+    "language": "English, Malay",
+    "hello": "Hello / Selamat"
+  },
+  "CD": {
+    "country": "Congo, the Democratic Republic of the",
+    "capitalCity": "Kinshasa",
+    "continent": "Africa",
+    "language": "French",
+    "hello": "Bonjour"
+  },
+  "CF": {
+    "country": "Central African Republic",
+    "capitalCity": "Bangui",
+    "continent": "Africa",
+    "language": "Sango, French",
+    "hello": "Balao / Bonjour"
+  },
+  "CG": {
+    "country": "Republic of the Congo",
+    "capitalCity": "Brazzaville",
+    "continent": "Africa",
+    "language": "French",
+    "hello": "Bonjour"
+  },
+  "CH": {
+    "country": "Switzerland",
+    "capitalCity": "Bern",
+    "continent": "Europe",
+    "language": "German, French, Italian, Romansh",
+    "hello": "Grüezi / Bonjour / Buongiorno / Allegra"
+  },
+  "CI": {
+    "country": "Côte d'Ivoire",
+    "capitalCity": "Yamoussoukro",
+    "continent": "Africa",
+    "language": "French",
+    "hello": "Bonjour"
+  },
+  "CK": {
+    "country": "Cook Islands",
+    "capitalCity": "Avarua",
+    "continent": "Oceania",
+    "language": "English, Cook Islands Maori",
+    "hello": "Hello / Kia Orana"
+  },
+  "CL": {
+    "country": "Chile",
+    "capitalCity": "Santiago",
+    "continent": "South America",
+    "language": "Spanish",
+    "hello": "Hola"
+  },
+  "CM": {
+    "country": "Cameroon",
+    "capitalCity": "Yaoundé",
+    "continent": "Africa",
+    "language": "English, French",
+    "hello": "Hello / Bonjour"
+  },
+  "CN": {
+    "country": "China (People's Republic of China)",
+    "capitalCity": "Beijing",
+    "continent": "Asia",
+    "language": "Mandarin Chinese",
+    "hello": "Nǐ hǎo"
+  },
+  "CO": {
+    "country": "Colombia",
+    "capitalCity": "Bogotá",
+    "continent": "South America",
+    "language": "Spanish",
+    "hello": "Hola"
+  },
+  "CR": {
+    "country": "Costa Rica",
+    "capitalCity": "San José",
+    "continent": "North America",
+    "language": "Spanish",
+    "hello": "Hola"
+  },
+  "CU": {
+    "country": "Cuba",
+    "capitalCity": "Havana",
+    "continent": "North America",
+    "language": "Spanish",
+    "hello": "Hola"
+  },
+  "CV": {
+    "country": "Cape Verde",
+    "capitalCity": "Praia",
+    "continent": "Africa",
+    "language": "Portuguese",
+    "hello": "Olá"
+  },
+  "CW": {
+    "country": "Curaçao",
+    "capitalCity": "Willemstad",
+    "continent": "North America",
+    "language": "Papiamento, Dutch",
+    "hello": "Bon dia / Hallo"
+  },
+  "CX": {
+    "country": "Christmas Island",
+    "capitalCity": "Flying Fish Cove",
+    "continent": "Oceania",
+    "language": "English",
+    "hello": "Hello"
+  },
+  "CY": {
+    "country": "Cyprus",
+    "capitalCity": "Nicosia",
+    "continent": "Europe",
+    "language": "Greek, Turkish",
+    "hello": "Geia sas / Merhaba"
+  },
+  "CZ": {
+    "country": "Czech Republic",
+    "capitalCity": "Prague",
+    "continent": "Europe",
+    "language": "Czech",
+    "hello": "Ahoj"
+  },
+  "DE": {
+    "country": "Germany",
+    "capitalCity": "Berlin",
+    "continent": "Europe",
+    "language": "German",
+    "hello": "Hallo"
+  },
+  "DJ": {
+    "country": "Djibouti",
+    "capitalCity": "Djibouti",
+    "continent": "Africa",
+    "language": "Arabic, French",
+    "hello": "Marhaba / Bonjour"
+  },
+  "DK": {
+    "country": "Denmark",
+    "capitalCity": "Copenhagen",
+    "continent": "Europe",
+    "language": "Danish",
+    "hello": "Hej"
+  },
+  "DM": {
+    "country": "Dominica",
+    "capitalCity": "Roseau",
+    "continent": "North America",
+    "language": "English",
+    "hello": "Hello"
+  },
+  "DO": {
+    "country": "Dominican Republic",
+    "capitalCity": "Santo Domingo",
+    "continent": "North America",
+    "language": "Spanish",
+    "hello": "Hola"
+  },
+  "DZ": {
+    "country": "Algeria",
+    "capitalCity": "Algiers",
+    "continent": "Africa",
+    "language": "Arabic",
+    "hello": "As-salaam-alaikum"
+  },
+  "EC": {
+    "country": "Ecuador",
+    "capitalCity": "Quito",
+    "continent": "South America",
+    "language": "Spanish",
+    "hello": "Hola"
+  },
+  "EE": {
+    "country": "Estonia",
+    "capitalCity": "Tallinn",
+    "continent": "Europe",
+    "language": "Estonian",
+    "hello": "Tere"
+  },
+  "EG": {
+    "country": "Egypt",
+    "capitalCity": "Cairo",
+    "continent": "Africa",
+    "language": "Arabic",
+    "hello": "As-salaam-alaikum"
+  },
+  "EH": {
+    "country": "Western Sahara",
+    "capitalCity": "El Aaiún",
+    "continent": "Africa",
+    "language": "Arabic",
+    "hello": "As-salaam-alaikum"
+  },
+  "ER": {
+    "country": "Eritrea",
+    "capitalCity": "Asmara",
+    "continent": "Africa",
+    "language": "Tigrinya, Arabic",
+    "hello": "Selam / As-salaam-alaikum"
+  },
+  "ES": {
+    "country": "Spain",
+    "capitalCity": "Madrid",
+    "continent": "Europe",
+    "language": "Spanish",
+    "hello": "Hola"
+  },
+  "ET": {
+    "country": "Ethiopia",
+    "capitalCity": "Addis Ababa",
+    "continent": "Africa",
+    "language": "Amharic",
+    "hello": "Selam"
+  },
+  "FI": {
+    "country": "Finland",
+    "capitalCity": "Helsinki",
+    "continent": "Europe",
+    "language": "Finnish, Swedish",
+    "hello": "Hei / Hej"
+  },
+  "FJ": {
+    "country": "Fiji",
+    "capitalCity": "Suva",
+    "continent": "Oceania",
+    "language": "English, Fijian, Fiji Hindi",
+    "hello": "Hello / Bula / Namaste"
+  },
+  "FK": {
+    "country": "Falkland Islands (Malvinas)",
+    "capitalCity": "Stanley",
+    "continent": "South America",
+    "language": "English",
+    "hello": "Hello"
+  },
+  "FM": {
+    "country": "Micronesia, Federated States of",
+    "capitalCity": "Palikir",
+    "continent": "Oceania",
+    "language": "English",
+    "hello": "Hello"
+  },
+  "FO": {
+    "country": "Faroe Islands",
+    "capitalCity": "Tórshavn",
+    "continent": "Europe",
+    "language": "Faroese",
+    "hello": "Halló"
+  },
+  "FR": {
+    "country": "France",
+    "capitalCity": "Paris",
+    "continent": "Europe",
+    "language": "French",
+    "hello": "Bonjour"
+  },
+  "GA": {
+    "country": "Gabon",
+    "capitalCity": "Libreville",
+    "continent": "Africa",
+    "language": "French",
+    "hello": "Bonjour"
+  },
+  "GB": {
+    "country": "United Kingdom",
+    "capitalCity": "London",
+    "continent": "Europe",
+    "language": "English",
+    "hello": "Hello"
+  },
+  "GD": {
+    "country": "Grenada",
+    "capitalCity": "St. George's",
+    "continent": "North America",
+    "language": "English",
+    "hello": "Hello"
+  },
+  "GE": {
+    "country": "Georgia",
+    "capitalCity": "Tbilisi",
+    "continent": "Asia",
+    "language": "Georgian",
+    "hello": "Gamarjoba"
+  },
+  "GF": {
+    "country": "French Guiana",
+    "capitalCity": "Cayenne",
+    "continent": "South America",
+    "language": "French",
+    "hello": "Bonjour"
+  },
+  "GG": {
+    "country": "Guernsey",
+    "capitalCity": "St. Peter Port",
+    "continent": "Europe",
+    "language": "English, French",
+    "hello": "Hello / Bonjour"
+  },
+  "GH": {
+    "country": "Ghana",
+    "capitalCity": "Accra",
+    "continent": "Africa",
+    "language": "English",
+    "hello": "Hello"
+  },
+  "GI": {
+    "country": "Gibraltar",
+    "capitalCity": "Gibraltar",
+    "continent": "Europe",
+    "language": "English",
+    "hello": "Hello"
+  },
+  "GL": {
+    "country": "Greenland",
+    "capitalCity": "Nuuk",
+    "continent": "North America",
+    "language": "Greenlandic",
+    "hello": "Aluu"
+  },
+  "GM": {
+    "country": "Gambia",
+    "capitalCity": "Banjul",
+    "continent": "Africa",
+    "language": "English",
+    "hello": "Hello"
+  },
+  "GN": {
+    "country": "Guinea",
+    "capitalCity": "Conakry",
+    "continent": "Africa",
+    "language": "French",
+    "hello": "Bonjour"
+  },
+  "GP": {
+    "country": "Guadeloupe",
+    "capitalCity": "Basse-Terre",
+    "continent": "North America",
+    "language": "French",
+    "hello": "Bonjour"
+  },
+  "GQ": {
+    "country": "Equatorial Guinea",
+    "capitalCity": "Malabo",
+    "continent": "Africa",
+    "language": "Spanish, French, Portuguese",
+    "hello": "Hola / Bonjour / Olá"
+  },
+  "GR": {
+    "country": "Greece",
+    "capitalCity": "Athens",
+    "continent": "Europe",
+    "language": "Greek",
+    "hello": "Geia sas"
+  },
+  "GS": {
+    "country": "South Georgia and the South Sandwich Islands",
+    "capitalCity": "King Edward Point",
+    "continent": "Antarctica",
+    "language": "English",
+    "hello": "Hello"
+  },
+  "GT": {
+    "country": "Guatemala",
+    "capitalCity": "Guatemala City",
+    "continent": "North America",
+    "language": "Spanish",
+    "hello": "Hola"
+  },
+  "GU": {
+    "country": "Guam",
+    "capitalCity": "Hagåtña",
+    "continent": "Oceania",
+    "language": "English, Chamorro",
+    "hello": "Hello / Håfa Adai"
+  },
+  "GW": {
+    "country": "Guinea-Bissau",
+    "capitalCity": "Bissau",
+    "continent": "Africa",
+    "language": "Portuguese",
+    "hello": "Olá"
+  },
+  "GY": {
+    "country": "Guyana",
+    "capitalCity": "Georgetown",
+    "continent": "South America",
+    "language": "English",
+    "hello": "Hello"
+  },
+  "HK": {
+    "country": "Hong Kong",
+    "capitalCity": "City of Victoria",
+    "continent": "Asia",
+    "language": "Chinese, English",
+    "hello": "Néih hóu / Hello"
+  },
+  "HM": {
+    "country": "Heard Island and McDonald Islands",
+    "capitalCity": "N/A",
+    "continent": "Antarctica",
+    "language": "N/A",
+    "hello": "N/A"
+  },
+  "HN": {
+    "country": "Honduras",
+    "capitalCity": "Tegucigalpa",
+    "continent": "North America",
+    "language": "Spanish",
+    "hello": "Hola"
+  },
+  "HR": {
+    "country": "Croatia",
+    "capitalCity": "Zagreb",
+    "continent": "Europe",
+    "language": "Croatian",
+    "hello": "Bok"
+  },
+  "HT": {
+    "country": "Haiti",
+    "capitalCity": "Port-au-Prince",
+    "continent": "North America",
+    "language": "Haitian Creole, French",
+    "hello": "Bonjou / Bonjour"
+  },
+  "HU": {
+    "country": "Hungary",
+    "capitalCity": "Budapest",
+    "continent": "Europe",
+    "language": "Hungarian",
+    "hello": "Szia"
+  },
+  "ID": {
+    "country": "Indonesia",
+    "capitalCity": "Jakarta",
+    "continent": "Asia",
+    "language": "Indonesian",
+    "hello": "Halo"
+  },
+  "IE": {
+    "country": "Ireland",
+    "capitalCity": "Dublin",
+    "continent": "Europe",
+    "language": "English, Irish",
+    "hello": "Hello / Dia dhuit"
+  },
+  "IL": {
+    "country": "Israel",
+    "capitalCity": "Jerusalem",
+    "continent": "Asia",
+    "language": "Hebrew, Arabic",
+    "hello": "Shalom / As-salaam-alaikum"
+  },
+  "IM": {
+    "country": "Isle of Man",
+    "capitalCity": "Douglas",
+    "continent": "Europe",
+    "language": "English, Manx",
+    "hello": "Hello / Moghrey mie"
+  },
+  "IN": {
+    "country": "India",
+    "capitalCity": "New Delhi",
+    "continent": "Asia",
+    "language": "Hindi, English",
+    "hello": "Namaste / Hello"
+  },
+  "IO": {
+    "country": "British Indian Ocean Territory",
+    "capitalCity": "Diego Garcia",
+    "continent": "Asia",
+    "language": "English",
+    "hello": "Hello"
+  },
+  "IQ": {
+    "country": "Iraq",
+    "capitalCity": "Baghdad",
+    "continent": "Asia",
+    "language": "Arabic, Kurdish",
+    "hello": "As-salaam-alaikum / Slav"
+  },
+  "IR": {
+    "country": "Iran, Islamic Republic of",
+    "capitalCity": "Tehran",
+    "continent": "Asia",
+    "language": "Persian",
+    "hello": "Salaam"
+  },
+  "IS": {
+    "country": "Iceland",
+    "capitalCity": "Reykjavík",
+    "continent": "Europe",
+    "language": "Icelandic",
+    "hello": "Halló"
+  },
+  "IT": {
+    "country": "Italy",
+    "capitalCity": "Rome",
+    "continent": "Europe",
+    "language": "Italian",
+    "hello": "Ciao"
+  },
+  "JE": {
+    "country": "Jersey",
+    "capitalCity": "Saint Helier",
+    "continent": "Europe",
+    "language": "English, French",
+    "hello": "Hello / Bonjour"
+  },
+  "JM": {
+    "country": "Jamaica",
+    "capitalCity": "Kingston",
+    "continent": "North America",
+    "language": "English",
+    "hello": "Hello"
+  },
+  "JO": {
+    "country": "Jordan",
+    "capitalCity": "Amman",
+    "continent": "Asia",
+    "language": "Arabic",
+    "hello": "As-salaam-alaikum"
+  },
+  "JP": {
+    "country": "Japan",
+    "capitalCity": "Tokyo",
+    "continent": "Asia",
+    "language": "Japanese",
+    "hello": "Konnichiwa"
+  },
+  "KE": {
+    "country": "Kenya",
+    "capitalCity": "Nairobi",
+    "continent": "Africa",
+    "language": "Swahili, English",
+    "hello": "Jambo / Hello"
+  },
+  "KG": {
+    "country": "Kyrgyzstan",
+    "capitalCity": "Bishkek",
+    "continent": "Asia",
+    "language": "Kyrgyz, Russian",
+    "hello": "Salamatsyzby / Здравствуйте"
+  },
+  "KH": {
+    "country": "Cambodia",
+    "capitalCity": "Phnom Penh",
+    "continent": "Asia",
+    "language": "Khmer",
+    "hello": "Sua s'dei"
+  },
+  "KI": {
+    "country": "Kiribati",
+    "capitalCity": "Tarawa",
+    "continent": "Oceania",
+    "language": "English, Gilbertese",
+    "hello": "Hello / Mauri"
+  },
+  "KM": {
+    "country": "Comoros",
+    "capitalCity": "Moroni",
+    "continent": "Africa",
+    "language": "Comorian, Arabic, French",
+    "hello": "Bariza djioni / As-salaam-alaikum / Bonjour"
+  },
+  "KN": {
+    "country": "Saint Kitts and Nevis",
+    "capitalCity": "Basseterre",
+    "continent": "North America",
+    "language": "English",
+    "hello": "Hello"
+  },
+  "KP": {
+    "country": "Korea, Democratic People's Republic of",
+    "capitalCity": "Pyongyang",
+    "continent": "Asia",
+    "language": "Korean",
+    "hello": "Annyong haseyo"
+  },
+  "KR": {
+    "country": "Korea, Republic of",
+    "capitalCity": "Seoul",
+    "continent": "Asia",
+    "language": "Korean",
+    "hello": "Annyeong haseyo"
+  },
+  "KW": {
+    "country": "Kuwait",
+    "capitalCity": "Kuwait City",
+    "continent": "Asia",
+    "language": "Arabic",
+    "hello": "As-salaam-alaikum"
+  },
+  "KY": {
+    "country": "Cayman Islands",
+    "capitalCity": "George Town",
+    "continent": "North America",
+    "language": "English",
+    "hello": "Hello"
+  },
+  "KZ": {
+    "country": "Kazakhstan",
+    "capitalCity": "Nur-Sultan",
+    "continent": "Asia",
+    "language": "Kazakh, Russian",
+    "hello": "Sälem / Здравствуйте"
+  },
+  "LA": {
+    "country": "Laos (Lao People's Democratic Republic)",
+    "capitalCity": "Vientiane",
+    "continent": "Asia",
+    "language": "Lao",
+    "hello": "Sabaidee"
+  },
+  "LB": {
+    "country": "Lebanon",
+    "capitalCity": "Beirut",
+    "continent": "Asia",
+    "language": "Arabic",
+    "hello": "Marhaba"
+  },
+  "LC": {
+    "country": "Saint Lucia",
+    "capitalCity": "Castries",
+    "continent": "North America",
+    "language": "English",
+    "hello": "Hello"
+  },
+  "LI": {
+    "country": "Liechtenstein",
+    "capitalCity": "Vaduz",
+    "continent": "Europe",
+    "language": "German",
+    "hello": "Hallo"
+  },
+  "LK": {
+    "country": "Sri Lanka",
+    "capitalCity": "Colombo",
+    "continent": "Asia",
+    "language": "Sinhala, Tamil",
+    "hello": "Ayubowan / Vanakkam"
+  },
+  "LR": {
+    "country": "Liberia",
+    "capitalCity": "Monrovia",
+    "continent": "Africa",
+    "language": "English",
+    "hello": "Hello"
+  },
+  "LS": {
+    "country": "Lesotho",
+    "capitalCity": "Maseru",
+    "continent": "Africa",
+    "language": "Sesotho, English",
+    "hello": "Lumela / Hello"
+  },
+  "LT": {
+    "country": "Lithuania",
+    "capitalCity": "Vilnius",
+    "continent": "Europe",
+    "language": "Lithuanian",
+    "hello": "Labas"
+  },
+  "LU": {
+    "country": "Luxembourg",
+    "capitalCity": "Luxembourg City",
+    "continent": "Europe",
+    "language": "Luxembourgish, French, German",
+    "hello": "Moien / Bonjour / Hallo"
+  },
+  "LV": {
+    "country": "Latvia",
+    "capitalCity": "Riga",
+    "continent": "Europe",
+    "language": "Latvian",
+    "hello": "Sveiki"
+  },
+  "LY": {
+    "country": "Libya",
+    "capitalCity": "Tripoli",
+    "continent": "Africa",
+    "language": "Arabic",
+    "hello": "As-salaam-alaikum"
+  },
+  "MA": {
+    "country": "Morocco",
+    "capitalCity": "Rabat",
+    "continent": "Africa",
+    "language": "Arabic",
+    "hello": "As-salaam-alaikum"
+  },
+  "MC": {
+    "country": "Monaco",
+    "capitalCity": "Monaco",
+    "continent": "Europe",
+    "language": "French",
+    "hello": "Bonjour"
+  },
+  "MD": {
+    "country": "Moldova, Republic of",
+    "capitalCity": "Chișinău",
+    "continent": "Europe",
+    "language": "Romanian",
+    "hello": "Salut"
+  },
+  "ME": {
+    "country": "Montenegro",
+    "capitalCity": "Podgorica",
+    "continent": "Europe",
+    "language": "Montenegrin",
+    "hello": "Zdravo"
+  },
+  "MF": {
+    "country": "Saint Martin",
+    "capitalCity": "Marigot",
+    "continent": "North America",
+    "language": "French",
+    "hello": "Bonjour"
+  },
+  "MG": {
+    "country": "Madagascar",
+    "capitalCity": "Antananarivo",
+    "continent": "Africa",
+    "language": "Malagasy, French",
+    "hello": "Salama / Bonjour"
+  },
+  "MH": {
+    "country": "Marshall Islands",
+    "capitalCity": "Majuro",
+    "continent": "Oceania",
+    "language": "Marshallese, English",
+    "hello": "Iakwe / Hello"
+  },
+  "MK": {
+    "country": "North Macedonia",
+    "capitalCity": "Skopje",
+    "continent": "Europe",
+    "language": "Macedonian",
+    "hello": "Zdravo"
+  },
+  "ML": {
+    "country": "Mali",
+    "capitalCity": "Bamako",
+    "continent": "Africa",
+    "language": "French",
+    "hello": "Bonjour"
+  },
+  "MM": {
+    "country": "Myanmar",
+    "capitalCity": "Naypyidaw",
+    "continent": "Asia",
+    "language": "Burmese",
+    "hello": "Mingalarba"
+  },
+  "MN": {
+    "country": "Mongolia",
+    "capitalCity": "Ulaanbaatar",
+    "continent": "Asia",
+    "language": "Mongolian",
+    "hello": "Sain baina uu"
+  },
+  "MO": {
+    "country": "Macao",
+    "capitalCity": "Macao",
+    "continent": "Asia",
+    "language": "Chinese, Portuguese",
+    "hello": "Néih hóu / Olá"
+  },
+  "MP": {
+    "country": "Northern Mariana Islands",
+    "capitalCity": "Saipan",
+    "continent": "Oceania",
+    "language": "English, Chamorro",
+    "hello": "Hello / Håfa Adai"
+  },
+  "MQ": {
+    "country": "Martinique",
+    "capitalCity": "Fort-de-France",
+    "continent": "North America",
+    "language": "French",
+    "hello": "Bonjour"
+  },
+  "MR": {
+    "country": "Mauritania",
+    "capitalCity": "Nouakchott",
+    "continent": "Africa",
+    "language": "Arabic",
+    "hello": "As-salaam-alaikum"
+  },
+  "MS": {
+    "country": "Montserrat",
+    "capitalCity": "Plymouth",
+    "continent": "North America",
+    "language": "English",
+    "hello": "Hello"
+  },
+  "MT": {
+    "country": "Malta",
+    "capitalCity": "Valletta",
+    "continent": "Europe",
+    "language": "Maltese, English",
+    "hello": "Bonġu / Hello"
+  },
+  "MU": {
+    "country": "Mauritius",
+    "capitalCity": "Port Louis",
+    "continent": "Africa",
+    "language": "English",
+    "hello": "Hello"
+  },
+  "MV": {
+    "country": "Maldives",
+    "capitalCity": "Malé",
+    "continent": "Asia",
+    "language": "Dhivehi",
+    "hello": "Assalaamu Alaikum"
+  },
+  "MW": {
+    "country": "Malawi",
+    "capitalCity": "Lilongwe",
+    "continent": "Africa",
+    "language": "English, Chichewa",
+    "hello": "Hello / Moni"
+  },
+  "MX": {
+    "country": "Mexico",
+    "capitalCity": "Mexico City",
+    "continent": "North America",
+    "language": "Spanish",
+    "hello": "Hola"
+  },
+  "MY": {
+    "country": "Malaysia",
+    "capitalCity": "Kuala Lumpur",
+    "continent": "Asia",
+    "language": "Malay",
+    "hello": "Selamat sejahtera"
+  },
+  "MZ": {
+    "country": "Mozambique",
+    "capitalCity": "Maputo",
+    "continent": "Africa",
+    "language": "Portuguese",
+    "hello": "Olá"
+  },
+  "NA": {
+    "country": "Namibia",
+    "capitalCity": "Windhoek",
+    "continent": "Africa",
+    "language": "English",
+    "hello": "Hello"
+  },
+  "SG": {
+    "country": "Singapore",
+    "capitalCity": "Singapore",
+    "continent": "Asia",
+    "language": "English, Malay, Mandarin, Tamil",
+    "hello": "Hello"
+  },
+  "SH": {
+    "country": "Saint Helena, Ascension and Tristan da Cunha",
+    "capitalCity": "Jamestown",
+    "continent": "Africa",
+    "language": "English",
+    "hello": "Hello"
+  },
+  "SI": {
+    "country": "Slovenia",
+    "capitalCity": "Ljubljana",
+    "continent": "Europe",
+    "language": "Slovene",
+    "hello": "Živijo"
+  },
+  "SJ": {
+    "country": "Svalbard and Jan Mayen Islands",
+    "capitalCity": "Longyearbyen",
+    "continent": "Europe",
+    "language": "Norwegian",
+    "hello": "Hei"
+  },
+  "SK": {
+    "country": "Slovakia",
+    "capitalCity": "Bratislava",
+    "continent": "Europe",
+    "language": "Slovak",
+    "hello": "Ahoj"
+  },
+  "SL": {
+    "country": "Sierra Leone",
+    "capitalCity": "Freetown",
+    "continent": "Africa",
+    "language": "English",
+    "hello": "Hello"
+  },
+  "SM": {
+    "country": "San Marino",
+    "capitalCity": "San Marino",
+    "continent": "Europe",
+    "language": "Italian",
+    "hello": "Ciao"
+  },
+  "SN": {
+    "country": "Senegal",
+    "capitalCity": "Dakar",
+    "continent": "Africa",
+    "language": "French",
+    "hello": "Bonjour"
+  },
+  "SO": {
+    "country": "Somalia",
+    "capitalCity": "Mogadishu",
+    "continent": "Africa",
+    "language": "Somali",
+    "hello": "Salaan"
+  },
+  "SR": {
+    "country": "Suriname",
+    "capitalCity": "Paramaribo",
+    "continent": "South America",
+    "language": "Dutch",
+    "hello": "Hallo"
+  },
+  "SS": {
+    "country": "South Sudan",
+    "capitalCity": "Juba",
+    "continent": "Africa",
+    "language": "English",
+    "hello": "Hello"
+  },
+  "ST": {
+    "country": "Sao Tome and Principe",
+    "capitalCity": "Sao Tome",
+    "continent": "Africa",
+    "language": "Portuguese",
+    "hello": "Olá"
+  },
+  "SV": {
+    "country": "El Salvador",
+    "capitalCity": "San Salvador",
+    "continent": "North America",
+    "language": "Spanish",
+    "hello": "Hola"
+  },
+  "SX": {
+    "country": "Sint Maarten (Dutch part)",
+    "capitalCity": "Philipsburg",
+    "continent": "North America",
+    "language": "Dutch",
+    "hello": "Hallo"
+  },
+  "SY": {
+    "country": "Syrian Arab Republic",
+    "capitalCity": "Damascus",
+    "continent": "Asia",
+    "language": "Arabic",
+    "hello": "Marhaba"
+  },
+  "SZ": {
+    "country": "Swaziland",
+    "capitalCity": "Mbabane",
+    "continent": "Africa",
+    "language": "Swazi, English",
+    "hello": "Sawubona"
+  },
+  "TC": {
+    "country": "Turks and Caicos Islands",
+    "capitalCity": "Cockburn Town",
+    "continent": "North America",
+    "language": "English",
+    "hello": "Hello"
+  },
+  "TD": {
+    "country": "Chad",
+    "capitalCity": "N'Djamena",
+    "continent": "Africa",
+    "language": "French, Arabic",
+    "hello": "Bonjour"
+  },
+  "TF": {
+    "country": "French Southern Territories",
+    "capitalCity": "Port-aux-Français",
+    "continent": "Antarctica",
+    "language": "French",
+    "hello": "Bonjour"
+  },
+  "TG": {
+    "country": "Togo",
+    "capitalCity": "Lomé",
+    "continent": "Africa",
+    "language": "French",
+    "hello": "Bonjour"
+  },
+  "TH": {
+    "country": "Thailand",
+    "capitalCity": "Bangkok",
+    "continent": "Asia",
+    "language": "Thai",
+    "hello": "Sawasdee"
+  },
+  "TJ": {
+    "country": "Tajikistan",
+    "capitalCity": "Dushanbe",
+    "continent": "Asia",
+    "language": "Tajik",
+    "hello": "Salom"
+  },
+  "TK": {
+    "country": "Tokelau",
+    "capitalCity": "Nukunonu",
+    "continent": "Oceania",
+    "language": "Tokelauan, English",
+    "hello": "Malo ni"
+  },
+  "TL": {
+    "country": "Timor-Leste",
+    "capitalCity": "Dili",
+    "continent": "Asia",
+    "language": "Tetum, Portuguese",
+    "hello": "Olá"
+  },
+  "TM": {
+    "country": "Turkmenistan",
+    "capitalCity": "Ashgabat",
+    "continent": "Asia",
+    "language": "Turkmen",
+    "hello": "Salam"
+  },
+  "TN": {
+    "country": "Tunisia",
+    "capitalCity": "Tunis",
+    "continent": "Africa",
+    "language": "Arabic",
+    "hello": "Marhaba"
+  },
+  "TO": {
+    "country": "Tonga",
+    "capitalCity": "Nuku'alofa",
+    "continent": "Oceania",
+    "language": "Tongan, English",
+    "hello": "Malo e lelei"
+  },
+  "TR": {
+    "country": "Turkey",
+    "capitalCity": "Ankara",
+    "continent": "Asia",
+    "language": "Turkish",
+    "hello": "Merhaba"
+  },
+  "TT": {
+    "country": "Trinidad and Tobago",
+    "capitalCity": "Port of Spain",
+    "continent": "North America",
+    "language": "English",
+    "hello": "Hello"
+  },
+  "TV": {
+    "country": "Tuvalu",
+    "capitalCity": "Funafuti",
+    "continent": "Oceania",
+    "language": "Tuvaluan, English",
+    "hello": "Talofa"
+  },
+  "TW": {
+    "country": "Taiwan (Republic of China)",
+    "capitalCity": "Taipei",
+    "continent": "Asia",
+    "language": "Mandarin",
+    "hello": "Nǐ hǎo"
+  },
+  "TZ": {
+    "country": "Tanzania, United Republic of",
+    "capitalCity": "Dodoma",
+    "continent": "Africa",
+    "language": "Swahili, English",
+    "hello": "Habari"
+  },
+  "UA": {
+    "country": "Ukraine",
+    "capitalCity": "Kyiv",
+    "continent": "Europe",
+    "language": "Ukrainian",
+    "hello": "Pryvit"
+  },
+  "UG": {
+    "country": "Uganda",
+    "capitalCity": "Kampala",
+    "continent": "Africa",
+    "language": "English, Swahili",
+    "hello": "Hello"
+  },
+  "UM": {
+    "country": "US Minor Outlying Islands",
+    "capitalCity": "Washington, D.C.",
+    "continent": "North America",
+    "language": "English",
+    "hello": "Hello"
+  },
+  "US": {
+    "country": "United States",
+    "capitalCity": "Washington, D.C.",
+    "continent": "North America",
+    "language": "English",
+    "hello": "Hello"
+  },
+  "UY": {
+    "country": "Uruguay",
+    "capitalCity": "Montevideo",
+    "continent": "South America",
+    "language": "Spanish",
+    "hello": "Hola"
+  },
+  "UZ": {
+    "country": "Uzbekistan",
+    "capitalCity": "Tashkent",
+    "continent": "Asia",
+    "language": "Uzbek",
+    "hello": "Salom"
+  },
+  "VA": {
+    "country": "Holy See (Vatican City State)",
+    "capitalCity": "Vatican City",
+    "continent": "Europe",
+    "language": "Italian",
+    "hello": "Ciao"
+  },
+  "VC": {
+    "country": "Saint Vincent and the Grenadines",
+    "capitalCity": "Kingstown",
+    "continent": "North America",
+    "language": "English",
+    "hello": "Hello"
+  },
+  "VE": {
+    "country": "Venezuela, Bolivarian Republic of",
+    "capitalCity": "Caracas",
+    "continent": "South America",
+    "language": "Spanish",
+    "hello": "Hola"
+  },
+  "VG": {
+    "country": "Virgin Islands, British",
+    "capitalCity": "Road Town",
+    "continent": "North America",
+    "language": "English",
+    "hello": "Hello"
+  },
+  "VI": {
+    "country": "Virgin Islands, U.S.",
+    "capitalCity": "Charlotte Amalie",
+    "continent": "North America",
+    "language": "English",
+    "hello": "Hello"
+  },
+  "VN": {
+    "country": "Vietnam",
+    "capitalCity": "Hanoi",
+    "continent": "Asia",
+    "language": "Vietnamese",
+    "hello": "Xin chào"
+  },
+  "VU": {
+    "country": "Vanuatu",
+    "capitalCity": "Port Vila",
+    "continent": "Oceania",
+    "language": "Bislama, English, French",
+    "hello": "Halo"
+  },
+  "WF": {
+    "country": "Wallis and Futuna Islands",
+    "capitalCity": "Mata-Utu",
+    "continent": "Oceania",
+    "language": "French",
+    "hello": "Bonjour"
+  },
+  "WS": {
+    "country": "Samoa",
+    "capitalCity": "Apia",
+    "continent": "Oceania",
+    "language": "Samoan, English",
+    "hello": "Talofa"
+  },
+  "XK": {
+    "country": "Kosovo",
+    "capitalCity": "Pristina",
+    "continent": "Europe",
+    "language": "Albanian, Serbian",
+    "hello": "Përshëndetje"
+  },
+  "YE": {
+    "country": "Yemen",
+    "capitalCity": "Sana'a",
+    "continent": "Asia",
+    "language": "Arabic",
+    "hello": "Marhaba"
+  },
+  "YT": {
+    "country": "Mayotte",
+    "capitalCity": "Mamoudzou",
+    "continent": "Africa",
+    "language": "French",
+    "hello": "Bonjour"
+  },
+  "ZA": {
+    "country": "South Africa",
+    "capitalCity": "Pretoria",
+    "continent": "Africa",
+    "language": "Afrikaans, English, Zulu, Xhosa",
+    "hello": "Hello"
+  },
+  "ZM": {
+    "country": "Zambia",
+    "capitalCity": "Lusaka",
+    "continent": "Africa",
+    "language": "English",
+    "hello": "Hello"
+  },
+  "ZW": {
+    "country": "Zimbabwe",
+    "capitalCity": "Harare",
+    "continent": "Africa",
+    "language": "English, Shona, Sindebele",
+    "hello": "Hello"
+  }
+}
