@@ -25,22 +25,24 @@ const Quiz = ({ difficulty }) => {
   const [isCorrect, setIsCorrect] = useState(false);
   const [countriesData, setCountriesData] = useState({});
 
-  useEffect(() => {
-    fetch('/flags/countries.json')
-      .then((response) => {
-        if (!response.ok) {
-          throw new Error('Network response was not ok ' + response.statusText);
-        }
-        return response.json();
-      })
-      .then((data) => {
-        setCountriesData(data);
-        initializeGame(data);
-      })
-      .catch((error) => {
-        console.error('There has been a problem with your fetch operation:', error);
-      });
-  }, [difficulty]);
+useEffect(() => {
+  fetch('https://ms-phillipk.github.io/flag-quiz/flags/countries.json')
+    .then((response) => {
+      if (!response.ok) {
+        throw new Error('Network response was not ok ' + response.statusText);
+      }
+      return response.json();
+    })
+    .then((data) => {
+      setCountriesData(data);
+      initializeGame(data);
+    })
+    .catch((error) => {
+      console.error('There has been a problem with your fetch operation:', error);
+    });
+}, [difficulty]);
+
+  
 
   const initializeGame = (data) => {
     const selectedFlags = difficultyLevels[difficulty];
@@ -51,11 +53,12 @@ const Quiz = ({ difficulty }) => {
         return null;
       }
       return {
-        src: `/flags/png250px/${key.toLowerCase()}.png`,
+        src: `https://ms-phillipk.github.io/flag-quiz/flags/png250px/${key.toLowerCase()}.png`,
         country: countryData.country,
         options: getOptions(data, countryData.country, difficulty),
         data: countryData
       };
+      
     }).filter(flag => flag !== null);
     setFlags(shuffleArray(formattedFlags));
     setCurrentFlagIndex(0);
